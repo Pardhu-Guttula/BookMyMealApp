@@ -1,8 +1,7 @@
 # Book My Meal App
 
-<div style="text-align:center;">
-  [![BookMymealApp](https://github.com/Pardhu-Guttula/BookMyMealApp/blob/main/BrillioLogo.gif)](https://github.com/Pardhu-Guttula/BookMyMealApp/blob/main/Video%20Project.mp4)
-</div>
+[![BookMymealApp](https://github.com/Pardhu-Guttula/BookMyMealApp/blob/main/BrillioLogo.gif)](https://github.com/Pardhu-Guttula/BookMyMealApp/blob/main/Video%20Project.mp4)
+
 ## Overview
 The "Book My Meal" app is a meal booking application designed to streamline the process of booking meals for employees. It allows employees to log in using their Employee ID and Employee Email ID, after which they can proceed to book their meals for the desired date.
 
